@@ -1,0 +1,19 @@
+html {
+  font-family: Verdana, Lucida, sans-serif;
+
+}
+
+h1 {
+  color: red;
+  background-color: yellow;
+}
+
+h2 {
+  font-family: cursive;
+  font-size: 30px;
+  background-color: #FF5722;
+}
+
+body {
+  background-color: #FF9800;
+}
