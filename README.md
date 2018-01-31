@@ -1,3 +1,3 @@
 # lil-beans-bakery-and-cafe
 
-A website for my bakery business.
+My bakery/cafe business Lil Beans Bakery and Cafe's main repository for its first website.
